@@ -5,7 +5,7 @@ This Python package, PetPy, is an exciting and interactive Python package that b
 
 [![CI / CD](https://github.com/software-students-fall2024/3-python-package-job-offer-plz/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/software-students-fall2024/3-python-package-job-offer-plz/actions/workflows/build-and-test.yml)
 
-- [https://pypi.org/project/petpypi/0.1.0/] link to show package on PyPI
+[PyPI link to PetPy](https://pypi.org/project/petpypi/0.1.0/)
 
 ## Instructions for Contributing to PetPy
 1. **Install Python**:
