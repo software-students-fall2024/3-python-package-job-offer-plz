@@ -3,9 +3,9 @@
 ## Description
 This Python package, PetPy, is an exciting and interactive Python package that brings your very own virtual pets to life! Imagine caring for a unique pet, whether it’s a playful dog, a magical unicorn, or even a fierce T-Rex! With Petpy, you’re in control – create your pet, feed it fun foods, train it to level up, and watch its mood and health evolve with every action you take. Each pet has its own personality and stats, and you can experiment with a range of foods that impact mood and health in surprising ways. Dive in, unleash your creativity, and enjoy endless hours of fun with Petpy – where coding meets companionship!
 
-## To Do
-- [ ] badge
-- [ ] link to show package on PyPI
+[![CI / CD](https://github.com/software-students-fall2024/3-python-package-job-offer-plz/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/software-students-fall2024/3-python-package-job-offer-plz/actions/workflows/build-and-test.yml)
+
+- [https://pypi.org/project/petpypi/0.1.0/] link to show package on PyPI
 
 ## Instructions for Contributing to PetPy
 1. **Install Python**:
