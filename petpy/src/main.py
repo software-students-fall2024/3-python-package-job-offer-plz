@@ -139,7 +139,8 @@ def main():
                     pet_menu(current_pet)
 
         if len(petpy.pets) < prev_pet_count:
-            print(f"{current_pet.name} has left you")
+            if current_pet:
+                print(f"{current_pet.name} has left you")
             current_pet = None
             current_menu = MAIN_MENU
             
